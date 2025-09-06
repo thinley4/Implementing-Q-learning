@@ -27,14 +27,15 @@ python main.py
 
 ## Output
 
-- Initial Q-table (all zeros)
 ![initial_q_table](https://github.com/thinley4/Implementing-Q-learning/blob/main/output/initial_q_table.png)
+- Initial Q-table (all zeros)
 
-- Average reward per 1000 episodes during training
 ![reward](https://github.com/thinley4/Implementing-Q-learning/blob/main/output/avg_reward.png)
+- Average reward per 1000 episodes during training
 
-- Final trained Q-table
 ![final_q_table](https://github.com/thinley4/Implementing-Q-learning/blob/main/output/final_q_table.png)
+- Final trained Q-table
+
 
 The agent starts with random exploration and gradually learns optimal actions through trial and error.
 
